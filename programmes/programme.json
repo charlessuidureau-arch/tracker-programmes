@@ -1,1 +1,106 @@
-
+{
+  "version": 1,
+  "updatedAt": "2026-11-24",
+  "name": "Commando Tracker",
+  "weeks": {
+    "A": {
+      "name": "Piscine et matériel",
+      "days": {
+        "Lundi": [
+          "Course : échauffement 15 min",
+          "8 × 400 m fractionné",
+          "Retour au calme 10 min",
+          "Tractions : 4 × 6-10",
+          "Curl haltères : 3 × 8-12",
+          "Dips : 3 × 10-15",
+          "Pompes serrées : 3 × 12-15",
+          "Gainage : 3 × 45 sec"
+        ],
+        "Mardi": [
+          "Natation : échauffement 400 m",
+          "8 × 50 m crawl rapide",
+          "4 × 100 m crawl endurance",
+          "4 × 50 m jambes avec planche",
+          "4 × 100 m crawl modéré",
+          "Squats : 4 × 12",
+          "Fentes : 3 × 12/jambe",
+          "Soulevé de terre : 3 × 10",
+          "Mollets : 4 × 20"
+        ],
+        "Mercredi": [
+          "Course endurance fondamentale : 45-55 min"
+        ],
+        "Jeudi": [
+          "Tractions : 4 × 8",
+          "Pompes : 4 × 15",
+          "Développé militaire : 3 × 10",
+          "Rowing haltère : 3 × 10",
+          "Dips : 3 × 12",
+          "Relevés de jambes : 4 × 15",
+          "Gainage : 3 × 1 min",
+          "Gainage latéral : 3 × 40 sec/côté",
+          "Mountain climbers : 3 × 40 sec"
+        ],
+        "Vendredi": [
+          "Natation : échauffement 300 m",
+          "10 × 50 m rapide",
+          "4 × 100 m soutenu",
+          "4 × 50 m technique",
+          "Récupération : 100 m"
+        ],
+        "Samedi": [
+          "Course longue : 60 min à allure facile"
+        ],
+        "Dimanche": [
+          "Repos et mobilité"
+        ]
+      }
+    },
+    "B": {
+      "name": "Poids du corps",
+      "days": {
+        "Lundi": [
+          "Course : échauffement 15 min",
+          "10 × 200 m fractionné",
+          "Retour au calme 10 min",
+          "Crunchs : 4 × 25",
+          "Relevés de jambes : 4 × 15",
+          "Mountain climbers : 3 × 40",
+          "Gainage : 3 × 1 min",
+          "Gainage latéral : 3 × 40 sec/côté"
+        ],
+        "Mardi": [
+          "Squats : 4 × 25",
+          "Fentes alternées : 4 × 15/jambe",
+          "Squats sautés : 3 × 10",
+          "Fentes arrière : 3 × 12/jambe",
+          "Pont fessier : 4 × 20",
+          "Mollets : 4 × 25",
+          "Chaise : 3 × 45 sec"
+        ],
+        "Mercredi": [
+          "Course endurance fondamentale : 45-55 min"
+        ],
+        "Jeudi": [
+          "Pompes classiques : 4 × 20",
+          "Pompes diamant : 3 × 10",
+          "Pompes larges : 3 × 15",
+          "Pompes pike : 3 × 10",
+          "Superman : 4 × 15",
+          "Extensions triceps au sol : 3 × 12"
+        ],
+        "Vendredi": [
+          "Course : échauffement 15 min",
+          "6 × 400 m fractionné",
+          "Retour au calme 10 min"
+        ],
+        "Samedi": [
+          "Course longue : 60-65 min à allure facile"
+        ],
+        "Dimanche": [
+          "Repos et mobilité"
+        ]
+      }
+    }
+  }
+}
