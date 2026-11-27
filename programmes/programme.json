@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-11-24",
+  "version": 2,
+  "updatedAt": "2026-11-27",
   "name": "Commando Tracker",
   "weeks": {
     "A": {
@@ -102,5 +102,15 @@
         ]
       }
     }
+  },
+  "startDate": "2026-11-23",
+  "cycleLengthDays": 14,
+  "adaptation": {
+    "difficultyScale": "1-5",
+    "easyThreshold": 2.2,
+    "hardThreshold": 4.2,
+    "completionThreshold": 0.8,
+    "notesAnalysis": true,
+    "offline": true
   }
 }
